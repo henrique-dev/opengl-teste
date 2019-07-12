@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562864960 source:/home/henrique/Projetos/opengl-teste/hellowindow/main.cpp
+	<iostream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+
