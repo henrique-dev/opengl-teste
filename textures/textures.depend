@@ -9,13 +9,14 @@
 	<sstream>
 	<iostream>
 
-1563120161 source:d:\desenvolvimento\projetos\opengl-teste\textures\main.cpp
+1563128850 source:d:\desenvolvimento\projetos\opengl-teste\textures\main.cpp
 	<glad/glad.h>
 	<GLFW/glfw3.h>
 	<math.h>
 	<iostream>
 	<shader.h>
 	<stb_image.h>
+	<stb_writer.h>
 
 1563112238 d:\desenvolvimento\projetos\opengl-teste\textures\include\shader.h
 	<glad/glad.h>
@@ -46,4 +47,74 @@
 
 1563113368 source:d:\desenvolvimento\projetos\opengl-teste\textures\src\stb_image.cpp
 	<stb_image.h>
+
+1563123279 source:d:\desenvolvimento\projetos\opengl-teste\textures\src\cimg.cpp
+	<CImg.h>
+
+1563123243 d:\desenvolvimento\projetos\opengl-teste\textures\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<cfloat>
+	<climits>
+	<ctime>
+	<exception>
+	<algorithm>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+	<fnmatch.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<omp.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<cstddef>
+	<opencv2/opencv.hpp>
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"tinyexr.h"
+	"CImg.h"
+
+1563126505 source:d:\desenvolvimento\projetos\opengl-teste\textures\src\stb_writer.cpp
+	<stb_writer.h>
+
+1563126266 d:\desenvolvimento\projetos\opengl-teste\textures\include\stb_writer.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
 
