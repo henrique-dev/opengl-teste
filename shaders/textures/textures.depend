@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563112237 source:d:\desenvolvimento\projetos\opengl-teste\shaders\textures\src\shader.cpp
+	"shader.h"
+
+1563112238 d:\desenvolvimento\projetos\opengl-teste\shaders\textures\include\shader.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
