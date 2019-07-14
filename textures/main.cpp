@@ -4,6 +4,7 @@
 #include <iostream>
 
 #include <shader.h>
+#include <stb_image.h>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
@@ -78,6 +79,8 @@ int main()
 
     glBindBuffer(GL_ARRAY_BUFFER, 0);
     glBindVertexArray(0);
+
+
 
     while (!glfwWindowShouldClose(window))
     {

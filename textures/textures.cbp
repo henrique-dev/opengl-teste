@@ -35,10 +35,12 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/shader.h" />
+		<Unit filename="include/stb_image.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="shader/shader.fs" />
 		<Unit filename="shader/shader.vs" />
 		<Unit filename="src/shader.cpp" />
+		<Unit filename="src/stb_image.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
