@@ -4,3 +4,8 @@
 	<glad/glad.h>
 	<GLFW/glfw3.h>
 
+1563052930 source:d:\desenvolvimento\projetos\opengl-teste\hellowindow\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
